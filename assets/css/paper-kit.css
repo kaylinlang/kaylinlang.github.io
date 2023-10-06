@@ -4768,6 +4768,10 @@ License - nucleoapp.com/license/
   transform: translate3d(0, 0px, 0) !important;
 }
 
+.increased-font-weight {
+  font-weight: bold; 
+}
+
 .dropdown .dropdown-menu[x-placement="bottom-start"] {
   -webkit-transform: translate3d(0, 0px, 0) !important;
   -moz-transform: translate3d(0, 0px, 0) !important;
@@ -6776,7 +6780,7 @@ License - nucleoapp.com/license/
 }
 
 #follows .follows h6 {
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 .follows hr {
@@ -7796,6 +7800,7 @@ License - nucleoapp.com/license/
   }
   .navbar-translate {
     width: 100%;
+    height: 50px;
     position: relative;
     display: flex;
     -ms-flex-pack: justify !important;
