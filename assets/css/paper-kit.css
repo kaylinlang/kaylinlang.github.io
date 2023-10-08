@@ -4772,6 +4772,73 @@ License - nucleoapp.com/license/
   font-weight: bold; 
 }
 
+.full-name {
+  font-weight: 500;
+}
+
+.description-profile {
+  font-weight: 300; 
+}
+
+.articles {
+  font-weight: 500; 
+}
+
+.friendship-bridge {
+  color: #600693;
+  text-decoration: none;  /* Optional, to remove underline */
+}
+
+.friendship-bridge:hover {
+  color: #4B005E;  /* Slightly darker purple for hover effect */
+}
+
+.friendship-bridge:active {
+  color: #4B005E;  /* Same slightly darker purple for active state */
+}
+
+.friendship-bridge:focus {
+  outline: none;   /* Optional, to remove default browser outline */
+  box-shadow: 0 0 5px #600693;  /* Optional, to provide a glow effect on focus */
+}
+
+.kiva {
+  color: #63A541;         /* Main color for normal/default state */
+  text-decoration: none;  /* Optional, to remove underline */
+}
+
+.kiva:hover {
+  color: #507D33;  /* Slightly darker green for hover effect */
+}
+
+.kiva:active {
+  color: #3D5E25;  /* Even darker green for active state */
+}
+
+.kiva:focus {
+  outline: none;   /* Optional, to remove default browser outline */
+  box-shadow: 0 0 5px #63A541;  /* Optional, to provide a glow effect on focus */
+}
+
+.united-nations {
+  color: #428FDF;         /* Main color for normal/default state */
+  text-decoration: none;  /* Optional, to remove underline */
+}
+
+.united-nations:hover {
+  color: #3571B8;  /* Slightly darker blue for hover effect */
+}
+
+.united-nations:active {
+  color: #285A93;  /* Even darker blue for active state */
+}
+
+.united-nations:focus {
+  outline: none;   /* Optional, to remove default browser outline */
+  box-shadow: 0 0 5px #428FDF;  /* Optional, to provide a glow effect on focus */
+}
+
+
 .dropdown .dropdown-menu[x-placement="bottom-start"] {
   -webkit-transform: translate3d(0, 0px, 0) !important;
   -moz-transform: translate3d(0, 0px, 0) !important;
